@@ -1,0 +1,33 @@
+nav{
+    background-color: #fff;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+nav a{
+    color: #ab3550 !important;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 10px;
+}
+nav a:hover{
+    color: #b66e7f !important;
+    
+}
+nav img{
+    max-width: 100%;
+    height: 90%;
+}
+nav #lastnav{
+    color: #ab3550;
+    border: 2px solid #ab3550;
+}
+nav #lastnav:hover{
+    color: #fff !important;
+    border: 2px solid #ab3550;
+    background-color: #ab3550;
+    transition: .2s ease-in-out ;
+}
